@@ -46,3 +46,8 @@ build/
 !templates/
 !templates/en/
 !templates/en/*.xlsx
+
+# The sanitized demo package includes public-facing inputs and Step 2-4 results.
+# Do not publish the copied Step 1 intermediates, which may contain source-run fields.
+demo/outputs/1_Data_Cleaning/
+demo/outputs/4_Final_Reports/*_demo.json

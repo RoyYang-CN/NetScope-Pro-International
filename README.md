@@ -20,6 +20,7 @@ NetScope Pro v4.22 International is a Windows desktop tool for wireless-network 
 - [PRB long-format template](templates/en/PRB_Load_Data_Long_Template.xlsx)
 - [PRB wide-format template](templates/en/PRB_Load_Data_Wide_Template.xlsx)
 - [Complete offline user guide](README_EN.html)
+- [Sanitized demo inputs and Step 2–Step 4 results](demo/)
 
 The engineering template uses WGS-84 longitude/latitude in degrees. Bandwidth accepts numeric MHz values such as `20`, `20.00`, `20M`, `20MHz` and `20 MHz`. PRB values accept ratios such as `0.7` and percentages such as `70%`.
 
@@ -55,6 +56,10 @@ Valid annual activation unlocks complete detailed output. The EXE and license st
 ![Thresholds](README_assets/gui_thresholds_en.jpg)
 
 For all parameter descriptions, validation rules, anomaly handling and result interpretation, open the [English offline user guide](README_EN.html).
+
+## Sanitized demonstration
+
+The [`demo/`](demo/) folder contains English demo workbooks, sanitized Step 2 candidates, Step 3 decisions, a Step 4 HTML report and a visual preview. Identifiers and coordinates are synthetic or translated, so the package can be used for product demonstrations without exposing customer network data.
 
 ## Repository boundary
 
