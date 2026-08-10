@@ -15,7 +15,10 @@ This package is prepared for product documentation and demonstrations. Identifie
 - `outputs/2_Load_Balancing/candidates.csv`: sanitized Step 2 candidate results.
 - `outputs/3_Expansion_Reduction/step3_decisions_en.csv`: sanitized Step 3 decision results.
 - `outputs/4_Final_Reports/Network_Report_demo.html`: sanitized Step 4 HTML report.
-- `screenshots/demo_preview.png`: visual preview of the sanitized inputs and results.
-- `outputs/4_Final_Reports/run_manifest_demo.json`: non-sensitive demo manifest and file hashes.
+- `screenshots/demo_preview.png`: visual preview of the sanitized inputs.
+- `screenshots/step2_results_preview.png`: dedicated Step 2 candidate preview.
+- `screenshots/step3_results_preview.png`: dedicated Step 3 decision preview.
+- `screenshots/step4_report_preview.png`: Step 4 HTML report preview.
+- `outputs/4_Final_Reports/run_manifest.json`: non-sensitive demo manifest and file hashes.
 
 The result files preserve the original source-to-candidate direction and relative engineering relationships for demonstration. They are sanitized presentation artifacts; a new run with different parameters or software versions can produce different counts.
