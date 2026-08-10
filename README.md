@@ -12,7 +12,7 @@ NetScope Pro v4.22 International is a Windows desktop tool for wireless-network 
 4. Review the parameters and click **Start Analysis**.
 5. Open the result directory and review the CSV, audit workbook and HTML report.
 
-![Run Analysis](README_assets/gui_run_analysis_en.jpg)
+![Sanitized demo inputs and results](demo/screenshots/demo_preview.png)
 
 ## Input templates
 
@@ -55,7 +55,7 @@ Valid annual activation unlocks complete detailed output. The EXE and license st
 
 ![Thresholds](README_assets/gui_thresholds_en.jpg)
 
-For all parameter descriptions, validation rules, anomaly handling and result interpretation, open the [English offline user guide](README_EN.html).
+For all parameter descriptions, validation rules, anomaly handling and result interpretation, open the [English offline user guide](README_EN.html). The repository homepage uses the sanitized demo preview above; it does not display local file paths or historical license-status screenshots.
 
 ## Sanitized demonstration
 
