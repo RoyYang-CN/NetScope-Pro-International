@@ -29,7 +29,7 @@ It is designed for engineers who already have engineering parameters and PRB/KPI
 2. Fill in the English engineering and PRB load template files.
 3. Import the engineering file and the load file on **Run Analysis**.
 4. Review the parameters and click **Start Analysis**.
-5. Open the result directory and review the CSV, audit workbook and HTML report.
+5. Open the result directory and review the CSV and HTML report. A production run also includes the data-quality audit workbook and run metadata; the public demo package intentionally contains only sanitized result samples.
 
 ![Sanitized demo inputs and results](demo/screenshots/demo_preview.png)
 
