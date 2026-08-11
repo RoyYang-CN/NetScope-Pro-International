@@ -4,6 +4,8 @@ NetScope Pro v4.22 International is a Windows desktop tool for wireless-network 
 
 > This repository is private. The core source code is not distributed here. The application is delivered as a closed Windows EXE with Trial / Free / Pro output controls.
 
+![NetScope Pro International interface](README_assets/gui_thresholds_en.jpg)
+
 ## Who is it for?
 
 - RAN planning and optimization engineers
