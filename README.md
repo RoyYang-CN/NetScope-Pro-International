@@ -70,7 +70,7 @@ Step 2 answers: **which cells are geometrically or logically related, and why ar
 
 ![Step 2 candidate results](demo/screenshots/step2_results_preview.png)
 
-- [Open Step 2 candidates CSV](demo/outputs/2_Load_Balancing/candidates.csv)
+- [Open Step 2 candidate sample CSV](demo/outputs/2_Load_Balancing/candidates_sample.csv)
 
 ### Step 3 — Expansion and reduction decisions
 
@@ -78,7 +78,7 @@ Step 3 answers: **which candidate becomes an expansion, balancing or reduction d
 
 ![Step 3 decision results](demo/screenshots/step3_results_preview.png)
 
-- [Open Step 3 decisions CSV](demo/outputs/3_Expansion_Reduction/step3_decisions_en.csv)
+- [Open Step 3 decision sample CSV](demo/outputs/3_Expansion_Reduction/step3_decisions_en_sample.csv)
 
 ### Step 4 — Final report
 
