@@ -2,7 +2,7 @@
 
 NetScope Pro v4.22 International is a Windows desktop tool for wireless-network capacity and coverage planning. It analyzes engineering parameters and PRB load data to identify high-load balancing, expansion and reduction candidates.
 
-> This repository is private. The core source code is not distributed here. The application is delivered as a closed Windows EXE with Trial / Free / Pro output controls.
+> This public repository contains documentation, input templates and a sanitized demo. The core source code is not included. Windows EXE files are separate release assets; check the release notes for the exact build and its status.
 
 ![NetScope Pro International interface](README_assets/gui_thresholds_en.jpg)
 
@@ -93,7 +93,7 @@ Step 4 presents the result for review: summary metrics, high-load and reduction 
 
 ## Output and license modes
 
-The application keeps full analysis input and summary statistics in Trial, Free and Pro modes. After Trial expiry without a valid license, Free mode limits each detailed result table to the first 100 deterministic rows while retaining complete summary counts.
+The application has Trial, Free and Pro output controls. Trial duration depends on the build. After Trial expiry without a valid license, Free mode limits each detailed result table to the first 100 deterministic rows while retaining complete summary counts.
 
 Valid annual activation unlocks complete detailed output. The EXE and license state are distributed separately from this documentation repository.
 
@@ -111,4 +111,4 @@ The [`demo/`](demo/) folder contains English demo workbooks, sanitized Step 2 ca
 
 Included: English documentation, screenshots and input templates.
 
-Excluded: core Python source, EXE binaries in the repository tree, runtime configuration, license keys, customer data, analysis outputs and build artifacts. Verified release binaries may be attached separately to a private GitHub Release.
+Excluded: core Python source, EXE binaries in the repository tree, runtime configuration, license keys, customer data, analysis outputs and build artifacts. Release binaries may be attached separately to a public GitHub Release. The executable used in the recent payment, email delivery and activation check is different from the executable attached to the current GitHub Release; that check does not validate the GitHub asset.
